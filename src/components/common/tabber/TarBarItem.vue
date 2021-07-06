@@ -56,5 +56,6 @@ export default {
   height: 20px;
   vertical-align: middle;
   margin-top: 5px;
+  margin-bottom: 5px;
 }
 </style>
